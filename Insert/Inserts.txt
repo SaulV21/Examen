@@ -1,0 +1,3 @@
+INSERT INTO `empleado`(`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('','Velecela','5','Cuenca','21/08/1999','Saul','ninguna','200','70002525');
+INSERT INTO `empleado`(`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('','Castro','10','Azogues','01/11/1995','Jose','atraso','150','7000545');
+INSERT INTO `empleado`(`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('','Ruiz','15','Loja','11/05/2002','Miriam','permiso','250','26448956');
